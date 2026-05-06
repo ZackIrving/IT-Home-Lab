@@ -30,3 +30,19 @@ Set up a basic IT lab environment using virtual machines and learn fundamental o
 ### System Updates
 ```bash
 sudo apt update && sudo apt upgrade -y
+```
+### Tools Installed
+
+```bash
+sudo apt install -y net-tools curl wget htop unzip
+```
+
+### Skills Practiced
+- VM setup
+- Linux navigation
+- Installing software
+
+### What I Learned
+- How to set up a VM
+- Importance of updates
+- Basic Linux commands
